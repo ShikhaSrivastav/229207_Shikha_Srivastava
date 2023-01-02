@@ -1,0 +1,24 @@
+{
+  "name": "229207_shikha_srivastava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShikhaSrivastav/229207_Shikha_Srivastava.git"
+  },
+  "author": "shikha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShikhaSrivastav/229207_Shikha_Srivastava/issues"
+  },
+  "homepage": "https://github.com/ShikhaSrivastav/229207_Shikha_Srivastava#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "node": "^19.3.0"
+  }
+}
